@@ -21,7 +21,7 @@ export default function Home() {
       </main>
 
       <footer className="py-6 text-center text-gray-400 text-sm">
-        &copy; 2025 Next.js Learning Journey — Made with ❤️
+        &copy; 2025 Next.js Learning Journey — Made with ❤️ Arif
       </footer>
     </div>
   );
